@@ -15,8 +15,6 @@
 * [Table of contents](#table-of-contents)
 * [Data source](#data-source)
 * [Data preprocessing](#data-preprocessing)
-* [Experiment pipelines](#experiment-pipelines)
-* [Data details](#data-details)
 * [Code](#code)
 * [Report](#report)
 * [References](#references)
@@ -51,4 +49,4 @@ Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo. In Proceedings of
 
 ## For citation
 
-
+* update later
