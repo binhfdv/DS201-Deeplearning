@@ -22,7 +22,7 @@ data from
 * [Experiment pipelines](#experiment-pipelines)
 * [Data details](#data-details)
 * [Code](#code)
-* [Presentation slides and Report](#presentation-slides-and-report)
+* [Report](#report)
 * [References](#references)
 * [For citation](#for-citation)
 
@@ -44,10 +44,11 @@ Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo. In Proceedings of
 * Feature extraction and models training (and so on) in this repo are implemented in Google Colab.
 * All codes are organized in `name.ipynb` files.
 
-## Presentation slides and Report
+## Report
 
 * <a href="https://github.com/githubbinh/DS201-Deeplearning/blob/main/report.pdf" target="_blank">Report</a>
 * <a href="https://github.com/githubbinh/DS201-Deeplearning/blob/main/vn_report.pdf" target="_blank">Report (Vietnamese version)</a>
+
 ## References
 
 * All references are cited in the report file.
