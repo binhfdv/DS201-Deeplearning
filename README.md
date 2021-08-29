@@ -1,7 +1,3 @@
-# deeplearning
-
-data from 
-
 # DS201 / Deep Learning
 
 ## About
