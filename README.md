@@ -46,9 +46,8 @@ Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo. In Proceedings of
 
 ## Presentation slides and Report
 
-* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/slides_UITVLFC.pptx" target="_blank">Report slides</a>
-* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/report_UIT-VLFC.pdf" target="_blank">Report</a>
-
+* <a href="https://github.com/githubbinh/DS201-Deeplearning/blob/main/report.pdf" target="_blank">Report</a>
+* <a href="https://github.com/githubbinh/DS201-Deeplearning/blob/main/vn_report.pdf" target="_blank">Report (Vietnamese version)</a>
 ## References
 
 * All references are cited in the report file.
