@@ -49,4 +49,6 @@ Cong Duy Vu Hoang, Dien Dinh, Le Nguyen Nguyen, Quoc Hung Ngo. In Proceedings of
 
 ## For citation
 
-* update later
+```
+@INPROCEEDINGS{9530818,  author={Tran, Quang-Linh and Lam, Gia-Huy and Duong, Van-Binh and Do, Trong-Hop},  booktitle={2021 IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)},   title={A Study on Diacritic Restoration Problem in Vietnamese Text using Deep Learning based Models},   year={2021},  volume={},  number={},  pages={306-310},  doi={10.1109/COMNETSAT53002.2021.9530818}}
+```
